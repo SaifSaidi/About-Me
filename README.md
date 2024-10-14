@@ -1,6 +1,6 @@
 # Saif Al-Saidi
 **Full Stack .NET Developer, Software Engineer 🚀🚀**  
-**Email**: [saifsaidi.jo@gmail.com](mailto:saifsaidi.jo@gmail.com) | **Mobile**: 0791650054 | **Address**: Amman, Jordan. 
+**Email**: [saifsaidi.jo@gmail.com](mailto:saifsaidi.jo@gmail.com)
 ## Summary
 Full Stack .NET Developer with knowledge in C# and ASP.NET Core for backend development, and familiarity with front-end technologies like Angular and React. Experienced in mobile development using Flutter, with a basic understanding of Design Pattern, Dependency Injection, and SOLID principles. Familiar with database management using SQL Server and testing frameworks like xUnit, as well as Node.js and Next.js for full-stack applications.
 ## Skills
